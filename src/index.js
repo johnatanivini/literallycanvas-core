@@ -10,6 +10,8 @@ import {
     SelectShape,
     Text,
     Polygon,
+    Iconx,
+    Estrela
 } from "./tools";
 import * as actions from "./actions";
 import bindEvents from "./bindEvents";
@@ -52,6 +54,8 @@ export {
     SelectShape,
     Text,
     Polygon,
+    Iconx,
+    Estrela,
 };
 
 if (window) {
@@ -81,6 +85,8 @@ if (window) {
         SelectShape,
         Text,
         Polygon,
+        Iconx,
+        Estrela,
     };
 }
 

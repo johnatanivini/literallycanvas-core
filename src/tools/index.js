@@ -9,6 +9,8 @@ import Rectangle from "./Rectangle";
 import SelectShape from "./SelectShape";
 import Text from "./Text";
 import Polygon from "./Polygon";
+import Estrela from "./Estrela";
+import Iconx from "./Iconx";
 
 export {
     toolsBase,
@@ -22,4 +24,6 @@ export {
     SelectShape,
     Text,
     Polygon,
+    Estrela,
+    Iconx
 };
